@@ -1,0 +1,20 @@
+* {
+    font-family: 'Nuosu SIL', serif;
+}
+
+p {
+    margin: 40px;
+    font-size: 15px;
+    font-family: 'Prompt', serif;
+}
+
+h3 {
+    margin: 40px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 50px;
+}
+
+#imagen {
+    width: 500px;
+    height: 400px;
+}
